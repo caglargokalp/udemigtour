@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "udemig tour",
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/UdemigTourHTML-CSS-main"
+		},
+		{
+			"path": "../../../Downloads/UdemigTourHTML-CSS-main/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "udemig tour"
+	}
+}
